@@ -1,0 +1,218 @@
+body{
+  margin: 0 !important;
+}
+
+header{
+  background: #f7f7f7 !important;
+}
+.navbar-toggler{
+  background-color: #333333 !important;
+}
+
+element.style {
+  color: currentcolor;
+}
+
+.nav-item a{
+color: #696969;
+font-weight: bold;
+font-size: 18px;
+}
+/* banner */
+.banner{
+  background-image: url(../images/banner-1.jpg);
+  background-attachment: fixed;
+ background-repeat: no-repeat;
+/* height: 600px; */
+margin: 0;
+}
+
+.banner-content{
+  background-color: black;
+  opacity: .8;
+  /* height: 600px; */
+  padding-top: 5%;
+}
+.banner-headding-content a{
+  color: #fff;
+  text-decoration: none;
+}
+.banner-headding-content{
+  color: #fff;
+}
+.banner-headding-content h1{
+  font-size: 3.5rem;
+  padding: 4% 0;
+}
+.banner-headding-content h4{
+  font-size: 20px;
+}
+.banner-form{
+  margin-bottom: 5%;
+}
+/* story */
+
+.story{
+  margin-top: 5%;
+}
+.heading-story{
+  font-size: 5rem;
+  letter-spacing: 4px;
+  opacity: .1;
+  font-weight: 900;
+  
+  position: absolute;
+  text-transform: uppercase;
+}
+.DISCOVER{
+  color: burlywood;
+ 
+  font-size: 14px;
+  font-weight: bold;
+}
+.heading h3{
+  padding: 41px 10px;
+  font-size: 22px;
+  font-weight: 700;
+  color: #666666;
+}
+
+.heading h2{
+  font-size: 3rem;
+  font-weight: bold;
+  color: rgb(0, 0, 65);
+}
+.heading p{
+  line-height: 2;
+  color: #666666;
+  padding-top: 3%;
+}
+.heading-img img{
+  width: 100%;
+}
+
+
+/* Hot Tours */
+
+.tour-img{
+  float: left;
+}
+.tour{
+  margin-top: 5%;
+  text-align: center;
+}
+.tour h2{
+  font-size: 2rem;
+    font-weight: 700;
+    color: #747474;
+}
+.tour p{
+
+  font-size: 20px;
+  width: 59%;
+  margin: 1% 20%;
+  line-height: 1.7;
+  color: #a3a3a3;
+}
+.tour-img{
+  margin-top: 5%;
+}
+
+
+
+/*Most Popular Destinations*/
+
+.most{
+  margin-top: 5%;
+}
+.most-div{
+  background-color: #567e02;
+  text-align: center;
+}
+.most-div h2{
+  padding: 4% 0;
+  color: #fff !important;
+
+}
+.most-populer{
+  margin: 0!important;
+  padding: 0 !important;
+}
+
+
+/* What Client Says */
+
+.Client{
+  background-color: #1e003f;
+  background: url(../images/banner.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+margin: 5% 0;
+
+
+}
+.client-div{
+
+  background-color: black;
+    opacity: 0.8;
+}
+.client-content{
+  opacity: 6 !important;
+
+}
+.carousel-item{
+  color: #fff;
+  width: 70% !important;
+  margin: 2% 14%;
+}
+.carousel-item a{
+  text-decoration: none;
+  color: #3a3a3a;
+}
+.carousel-item p{
+  line-height: 2;
+  color: #939393;
+}
+.carousel-item img{
+  width: 20% !important;
+  border-radius: 50%;
+  float: left;
+  margin: 1% 3%;
+}
+.Client h2 {
+  color: #fff;
+  text-align: center;
+  padding-top: 4%;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+/* footer */
+
+footer{
+  margin-top: 5%;
+  background-color: #333333;
+  color: #fff;
+}
+.Information p{
+  line-height: 2 ;
+}
+.Information li{
+  list-style: none;
+  padding: 2% 0; 
+}
+.Information li a{
+  color: #a3a3a3;
+  text-decoration: none;
+}
+.Information h2{
+  font-size: 25px !important;
+  padding: 10% 0;
+}
+.ft-fa{
+  padding: 3%;
+  float: left;
+}
+address{
+  margin-left: 15%;
+}
